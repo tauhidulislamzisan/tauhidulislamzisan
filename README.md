@@ -16,13 +16,17 @@
 
 ---
 ### Tools and Links:
-
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
+[<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/006b3bc15c4b509cb2c48e2e5e44e0cb3efefc32/topics/flask/flask.png" />][website]
+[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/6e7a1d0078e0dbf77377b2fbc84f37e47d527d4a/topics/django/django.png" />][website]
+[<img align="left" alt="FastAPI" width="26px" src="https://raw.githubusercontent.com/github/explore/4a53c006be62a81f2e22e10c7ffb09f5f3cb3c35/topics/fastapi/fastapi.png" />][website]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/506233be4f1aef0c1e23a4ff43c7e799834d4e1c/topics/java/java.png" />][website]
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][website]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
