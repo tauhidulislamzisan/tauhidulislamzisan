@@ -1,5 +1,5 @@
-### Hellooooo there!, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br /> My name is ZISAN
-
+###  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Tauhidul+Islam+Zisan!;I'm+Full+Stack+Engineer)](https://git.io/typing-svg)
 
 
 ## Your next tech problem solver!!
