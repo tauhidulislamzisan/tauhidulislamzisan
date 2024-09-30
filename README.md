@@ -9,13 +9,8 @@
 <br /><br />
 <a href="https://app.daily.dev/tauhidulislamzisan"><img src="https://api.daily.dev/devcards/v2/oX0OqLJz8chlwRmxBPbXo.png?type=default&r=qvg" width="356" alt="Tauhidul Islam Zisan's Dev Card"/></a>
 
-<br /><br />
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itay1313&show_icons=true&locale=en&layout=compact&theme=dracula" alt="itay1313" />
-<br />
-
-<p align="center"><img width="400"  src="https://github-readme-stats.vercel.app/api?username=itay1313&show_icons=true&locale=en&theme=dracula" alt="itay1313" />
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=itay1313&theme=dracula" alt="itay1313" /></p>
+![tauhidulislamzisan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tauhidulislamzisan&theme=vue&hide_border=true)
 
 <br /><br />
 
