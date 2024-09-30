@@ -12,7 +12,9 @@
 
 ![tauhidulislamzisan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tauhidulislamzisan&theme=vue&hide_border=true)
 
-<br /><br />
+<br />
+![Zisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tauhidulislamzisan&theme=vue&show_icons=true)
+<br />
 
 ---
 ### Tools and Links:
