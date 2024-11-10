@@ -11,6 +11,8 @@
 
 
 ![tauhidulislamzisan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tauhidulislamzisan&theme=vue&hide_border=true)
+![Zisan's gitlab stats](https://gitlab-readme-stats-flax.vercel.app/api?username=tizisan)
+
 
 <br />
 
